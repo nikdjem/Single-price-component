@@ -3,4 +3,4 @@ This is a solution of Single price grid component challenge on Frontend Mentor u
 
 # Table of contents
 
-  Frontend Mentor - Single price grid component using HTML and CSS
+  [Frontend Mentor - Single price grid component using HTML and CSS](README.md)
